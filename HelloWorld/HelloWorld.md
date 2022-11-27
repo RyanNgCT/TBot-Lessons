@@ -39,3 +39,7 @@ bot.polling()
    pip install python-dotenv==0.17.1
    pip install requests==2.25.1
    ```
+   
+## Results
+![image](https://user-images.githubusercontent.com/48358569/204119239-13cd3deb-15d1-4f4b-a41b-81daf4c581f1.png)
+
